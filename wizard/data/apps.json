@@ -1,0 +1,9 @@
+{
+  "zoom": "%APPDATA%\\Zoom\\bin\\Zoom.exe",
+  "teams": "%LOCALAPPDATA%\\Microsoft\\Teams\\current\\Teams.exe",
+  "outlook": "outlook.exe",
+  "notepad": "notepad.exe",
+  "calculator": "calc.exe",
+  "chrome": "chrome.exe",
+  "edge": "msedge.exe"
+}

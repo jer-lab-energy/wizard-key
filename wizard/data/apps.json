@@ -1,9 +1,30 @@
 {
-  "zoom": "%APPDATA%\\Zoom\\bin\\Zoom.exe",
-  "teams": "%LOCALAPPDATA%\\Microsoft\\Teams\\current\\Teams.exe",
-  "outlook": "outlook.exe",
-  "notepad": "notepad.exe",
-  "calculator": "calc.exe",
-  "chrome": "chrome.exe",
-  "edge": "msedge.exe"
+  "zoom": {
+    "path": "%APPDATA%\\Zoom\\bin\\Zoom.exe",
+    "aliases": ["zoom app", "video call"]
+  },
+  "teams": {
+    "path": "%LOCALAPPDATA%\\Microsoft\\Teams\\current\\Teams.exe",
+    "aliases": ["microsoft teams", "team chat"]
+  },
+  "outlook": {
+    "path": "outlook.exe",
+    "aliases": ["email", "mail"]
+  },
+  "notepad": {
+    "path": "notepad.exe",
+    "aliases": ["text editor", "document"]
+  },
+  "calculator": {
+    "path": "calc.exe",
+    "aliases": ["calc", "math"]
+  },
+  "chrome": {
+    "path": "chrome.exe",
+    "aliases": ["google chrome", "browser"]
+  },
+  "edge": {
+    "path": "msedge.exe",
+    "aliases": ["microsoft edge", "edge browser"]
+  }
 }
